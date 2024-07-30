@@ -103,7 +103,7 @@ label:hover .label-description::after {
 
 
 /* DOWNLOAD CONTAINER */
-
+/*
 .download-container {
   position: absolute;
   top: 10px;
@@ -158,3 +158,4 @@ span.download-button-container a:after {
 span.download-button-container a:hover {
   transform: translateZ(-25px) rotateX(-90deg);
 }
+*/
